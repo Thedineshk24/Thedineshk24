@@ -2,6 +2,8 @@
 <br />
 
 ![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=Thedineshk24&hide=stars,prs,contribs)
+
+![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=Thedineshk24&show_icons=true)
 ### Hi there 👋 Here is What I'm Working on 👇
 
 
