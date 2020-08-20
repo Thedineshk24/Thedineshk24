@@ -1,4 +1,4 @@
-![Image of mine](https://twitter.com/Thedineshk24/header_photo)
+![Image of mine](https://pbs.twimg.com/profile_banners/3701587879/1597635871/1500x500)
 ### Hi there 👋 Here is What I'm Working on 👇
 
 
