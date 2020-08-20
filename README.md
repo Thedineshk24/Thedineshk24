@@ -2,8 +2,7 @@
 ![Dinesh's github states](https://github-readme-stats.vercel.app/api?username=Thedineshk24&show_icons=true&theme=radical)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thedineshk24)](https://github.com/Thedineshk24/github-readme-stats)
-<br />
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thedineshk24&repo=github-readme-stats)](https://github.com/Thedineshk24/)
+
 
 ### Hi there 👋 Here is What I'm Working on 👇
 
