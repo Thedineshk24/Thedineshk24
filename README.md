@@ -1,7 +1,7 @@
 ![Image of mine](https://pbs.twimg.com/profile_banners/3701587879/1597635871/1500x500)
 ![Dinesh's github states](https://github-readme-stats.vercel.app/api?username=Thedineshk24&show_icons=true&theme=radical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thedineshk24&repo=github-readme-stats)](https://github.com/Thedineshk24/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thedineshk24)](https://github.com/Thedineshk24/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thedineshk24&repo=github-readme-stats)](https://github.com/Thedineshk24/github-readme-stats)
 
 ### Hi there 👋 Here is What I'm Working on 👇
 
