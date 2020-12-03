@@ -1,4 +1,4 @@
-![Image of mine](https://pbs.twimg.com/profile_banners/3701587879/1597635871/1500x500)
+![Image of mine](https://media-exp1.licdn.com/dms/image/C4E16AQF2N9tdHP5i2A/profile-displaybackgroundimage-shrink_200_800/0?e=1612396800&v=beta&t=CvQpPWtteA8l5H9ZL692eGRgr7DpTPluKlLudgqbXNU)
 <br />
 ![Dinesh's github states](https://github-readme-stats.vercel.app/api?username=Thedineshk24&show_icons=true&theme=ayu-mirage)
 <br />
