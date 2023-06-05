@@ -5,7 +5,7 @@
 
 <!-- Add your logo or profile image here -->
 <!-- You can use an image hosting service like Imgur (https://imgur.com/) to host your images -->
-<img src="your_logo_or_profile_image_url" alt="Your Name" width="200" height="200">
+<img src="https://media.licdn.com/dms/image/D4D03AQGKunTosq5uPA/profile-displayphoto-shrink_800_800/0/1685444821696?e=1691625600&v=beta&t=2Q24YLqow3nQuyLf0FAHUq-Lk6jeYnhVBx_D2B4tAMQ" alt="Dinesh" width="200" height="200">
 
 <!-- Add a title -->
 # Hi there! 👋 I'm Dinesh Katariya
