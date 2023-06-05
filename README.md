@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Thedineshk24&show_icons=true&theme=ayu-mirage&border_radius=30.0&border_color=2f353b" alt="Dinesh's GitHub Stats" />
   <br />
   <a href="https://github.com/Thedineshk24/github-readme-stats">
