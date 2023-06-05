@@ -71,8 +71,8 @@ Whether it's building dynamic and responsive user interfaces or implementing com
 You can reach out to me via the following platforms:
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dinesh-katariya/)
-- Twitter: [@your-twitter-profile]((https://twitter.com/thedineshk24))
-- Email: your-email@example.com
+- Twitter: [@your-twitter-profile](https://twitter.com/thedineshk24)
+- Email: thedineshk24@gmail.com
 
 ---
 
